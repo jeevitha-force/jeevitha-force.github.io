@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Jeevitha
 title: Sr. Salesforce Lightning Developer
 email: jeevitha.force@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: https://jeevitha-force.github.io
 
 # Social links
 #twitter_username: jekyll
@@ -26,7 +26,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jeevitha and I'm a Senior Salesforce Lightning Developer. A Polyglot Software Engineer with a penchant for Salesforce. I love coding and love to experiment with new technologies. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Salesforce</mark>, <mark>Mulesoft</mark>, <mark>Java</mark> and, <mark>JavaScript</mark> 
+  I am most skilled in: <mark>Salesforce</mark> <mark>Mulesoft</mark> <mark>Java</mark> and <mark>JavaScript</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -58,4 +58,3 @@ sass:
 plugins:
  - jekyll-seo-tag
 
-darkmode: true
