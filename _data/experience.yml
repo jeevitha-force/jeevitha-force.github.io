@@ -1,9 +1,29 @@
-- layout: left
+- layout: top
   company: Cervello
-  link: mycervello.com/
+  link: mycervello.com
   job_title: Salesforce Lightning Developer 
   dates: October 2019 - Present
-  quote: >
-   The more challenging the work, the better. The more messy the data, the better. We are your partner to turn unruly, chaotic data into beautiful data for better, faster decision making.
-  description: | # this will include new lines to allow paragraphs
+  
+- layout: top
+  company: Datasite
+  link: datasite.com
+  job_title: Salesforce Lightning Developer 
+  dates: September 2018 - September 2019
+  
+- layout: top
+  company: CFA Institute
+  link: cfainstitute.org
+  job_title: Salesforce Mid-level Developer & Admin
+  dates: May 2017 - October 2018
+  
+- layout: top
+  company: Info Tech – Bangalore, India
+  link: itcinfotech.com
+  job_title: Salesforce Admin & Analyst 
+  dates: June 2014 - April 2016
 
+- layout: top
+  company: Lloyds Bank – Bangalore, India
+  link: loydsbank.com/
+  job_title: Java Software Engineer 
+  
