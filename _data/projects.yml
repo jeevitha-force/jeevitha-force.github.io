@@ -1,8 +1,0 @@
-- layout: top-middle
-  name: foodoku
-  link: https://foodoku.stackblitz.io/
-  github: jeevitha-force/foodoku
-  quote: >
-    An app that is trying to minimize the food wastage
-  description: | # this will include new lines to allow paragraphs
-    I started this project as a way to learn <mark>Angular</mark> and it has since grown into a full fledged app. I have learned many skills through this and I'm very proud of having this in my portfolio.
